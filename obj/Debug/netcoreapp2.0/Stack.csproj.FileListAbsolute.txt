@@ -1,0 +1,9 @@
+/home/ubuntu/workspace/CSharpIntermediate/Folder2/Stack/bin/Debug/netcoreapp2.0/Stack.deps.json
+/home/ubuntu/workspace/CSharpIntermediate/Folder2/Stack/bin/Debug/netcoreapp2.0/Stack.runtimeconfig.json
+/home/ubuntu/workspace/CSharpIntermediate/Folder2/Stack/bin/Debug/netcoreapp2.0/Stack.runtimeconfig.dev.json
+/home/ubuntu/workspace/CSharpIntermediate/Folder2/Stack/bin/Debug/netcoreapp2.0/Stack.dll
+/home/ubuntu/workspace/CSharpIntermediate/Folder2/Stack/bin/Debug/netcoreapp2.0/Stack.pdb
+/home/ubuntu/workspace/CSharpIntermediate/Folder2/Stack/obj/Debug/netcoreapp2.0/Stack.csproj.CoreCompileInputs.cache
+/home/ubuntu/workspace/CSharpIntermediate/Folder2/Stack/obj/Debug/netcoreapp2.0/Stack.AssemblyInfo.cs
+/home/ubuntu/workspace/CSharpIntermediate/Folder2/Stack/obj/Debug/netcoreapp2.0/Stack.dll
+/home/ubuntu/workspace/CSharpIntermediate/Folder2/Stack/obj/Debug/netcoreapp2.0/Stack.pdb
